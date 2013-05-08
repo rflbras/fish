@@ -1,3 +1,3 @@
 function psg
-         ps axu | grep $argv
+  ps axu | grep $argv
 end
